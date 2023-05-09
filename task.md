@@ -1,6 +1,6 @@
 ## CST 8254 Lab 1
 
-**OVERALL: just following task 1,2,3. you should be familiar with them already with last semester knowledge tho xd. for task 4, i added how to access to webmin, so that you can take a screenshot of it. and for task 5, its updated too**
+> **OVERALL: just following task 1,2,3. you should be familiar with them already with knowledge from last semester tho xd. for [task 4](#**task-4%3A) i added how to access to webmin, so that you can take a screenshot of it. and for [task 5](#**task-5%3A), its updated too**
 
 ----
 ----
